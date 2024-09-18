@@ -24,12 +24,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   -This project shows an image/design of a soccer ball on a green background that resembles a soccer field
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things that I am very proud of is getting my code to work properly. The second thing that I am proud of is being able to find a way to get to options to work in the paintInsideTheBall method which I was very happy and proud of.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - Something I would like to do differently it to try and attempt the same thing but on a bigger project.
