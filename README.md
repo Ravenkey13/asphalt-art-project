@@ -18,7 +18,11 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+sketch';
+![Rough draft](IMG_6360.jpg)
+
+final image;
+![Final image](g.PNG)
 
 ## Reflection
 
